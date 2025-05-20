@@ -23,7 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Hausverwaltung</title>
+  <title>Hausverwaltung </title>
   <link rel="stylesheet" href="/style.css">
   <style>
     body { color: #fff; padding: 2rem; background-color: #121212; }
