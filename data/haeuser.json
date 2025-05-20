@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "ort": "Bergdorf",
+    "hausnummer": 3,
+    "preis": 150000,
+    "verkauft": false
+  },
+  {
+    "id": 2,
+    "ort": "Seeblick",
+    "hausnummer": 12,
+    "preis": 200000,
+    "verkauft": true
+  }
+]
