@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <form method="post">
     <label>Benutzername:<br><input type="text" name="username" required></label><br><br>
     <label>Passwort:<br><input type="password" name="password" required></label><br><br>
-    <button type="submit">Anmelden</button>
+    <button type="submit">Anmelden </button>
   </form>
 </body>
 </html>
