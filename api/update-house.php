@@ -1,5 +1,5 @@
 <?php
-// Optionaler Schutz mit secret Token:
+// Optionaler Schutz mit secret Token
 if ($_GET['token'] !== 'dein_geheimer_token') {
     http_response_code(403);
     echo json_encode(['error' => 'Unauthorized']);
